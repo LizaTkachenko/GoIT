@@ -1,0 +1,42 @@
+body {	
+    background-color: #ededed;
+	font: 15px/21px Cambria, sans-serif
+	}
+
+h1 {	
+    font-size: 20px;
+    text-align: center;
+	}
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+		}
+
+	
+.border {
+	border-bottom: 1px solid gray;
+    padding-bottom: 20px;}
+.maket {
+	background-color: white;
+    margin-right: 650px;
+    margin-left: 650px;
+	}
+.maket {
+	border: 3px solid white; 
+    width: 80%;
+    max-width: 380px;
+    margin: 2.5em auto 1em;
+    padding: 1em;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px 1px;
+	}
+p {
+	margin-left: 20px;
+	}
+a {
+	margin-left: 20px;
+	}
+.vk {
+	margin-top: 39px;
+}
